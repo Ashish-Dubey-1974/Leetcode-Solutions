@@ -23,4 +23,12 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+## Tree
+|  |
+| ------- |
+| [2384-root-equals-sum-of-children](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2384-root-equals-sum-of-children) |
+## Binary Tree
+|  |
+| ------- |
+| [2384-root-equals-sum-of-children](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2384-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
