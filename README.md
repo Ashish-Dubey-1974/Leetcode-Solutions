@@ -26,9 +26,19 @@
 ## Tree
 |  |
 | ------- |
+| [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
 | ------- |
+| [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2384-root-equals-sum-of-children) |
+## Depth-First Search
+|  |
+| ------- |
+| [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 <!---LeetCode Topics End-->
