@@ -64,6 +64,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Sliding Window
 |  |
 | ------- |
