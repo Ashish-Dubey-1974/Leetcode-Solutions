@@ -9,7 +9,11 @@ class Solution {
         for(int i=0;i<nums.length;i++){
             int s=0;
             int no=nums[i];
-            if(!map.containsKey(no-1))while(map.containsKey(no++))s++;
+            if(!map.containsKey(no-1)){
+                while(map.containsKey(no++)){
+                    s++;
+                }
+            }
             if(sum<s)sum=s;
             //if(sum>nums.length-i)return sum;
         }return sum;
