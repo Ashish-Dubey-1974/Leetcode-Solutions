@@ -12,6 +12,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0031-next-permutation](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0055-jump-game](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
@@ -79,4 +80,8 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0055-jump-game) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
