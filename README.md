@@ -7,6 +7,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0048-rotate-image) |
 ## Array
 |  |
 | ------- |
@@ -14,6 +15,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0048-rotate-image](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -95,5 +97,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
