@@ -18,6 +18,7 @@ class Solution {
     static int[][] helper(int[][] arr,List<Integer> point){
         for(int i=0;i<arr.length;i++){
             arr[i][point.get(1)]=0;
+            // arr[point.get(0)][i]=0;
         }
         for(int i=0;i<arr[0].length;i++){
             arr[point.get(0)][i]=0;
