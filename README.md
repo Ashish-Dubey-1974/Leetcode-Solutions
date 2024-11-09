@@ -46,16 +46,19 @@
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Breadth-First Search
 |  |
@@ -123,4 +126,8 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
