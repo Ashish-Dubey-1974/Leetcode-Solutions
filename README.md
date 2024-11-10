@@ -20,6 +20,7 @@
 | [0054-spiral-matrix](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
@@ -89,6 +90,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
 ## String
@@ -113,6 +115,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0075-sort-colors) |
 ## Union Find
 |  |
 | ------- |
