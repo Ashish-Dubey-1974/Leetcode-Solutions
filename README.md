@@ -26,6 +26,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0792-binary-search](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
 ## Hash Table
 |  |
@@ -80,6 +81,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0792-binary-search](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
 ## Dynamic Programming
 |  |
