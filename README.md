@@ -87,6 +87,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
@@ -102,6 +103,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Sliding Window
@@ -120,6 +122,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0075-sort-colors) |
