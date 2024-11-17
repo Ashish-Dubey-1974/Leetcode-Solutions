@@ -8,6 +8,7 @@
 | [0002-add-two-numbers](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [2032-largest-odd-number-in-string](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 ## Array
 |  |
 | ------- |
@@ -108,6 +109,7 @@
 | [0020-valid-parentheses](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Sliding Window
 |  |
@@ -122,6 +124,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0055-jump-game) |
+| [2032-largest-odd-number-in-string](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
 | ------- |
