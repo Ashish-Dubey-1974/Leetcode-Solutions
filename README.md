@@ -8,6 +8,7 @@
 | [0002-add-two-numbers](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
@@ -98,6 +99,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0198-house-robber) |
@@ -179,4 +181,8 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
