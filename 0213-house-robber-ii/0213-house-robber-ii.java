@@ -15,8 +15,8 @@ class Solution {
     static int find(int i,int[] nums,int[] dp){
         if(i>=dp.length)return 0;
         if(dp[i]!=-1)return dp[i];
-        int rob = nums[i]+find(i+2,nums,dp);
-        int drob = find(i+1,nums,dp);
+        int rob  = nums[i]+find(i+2,nums,dp);
+        int drob = find(i+1,nums,dp)        ;
         dp[i]=Integer.max(rob,drob);
         return dp[i];
     }
