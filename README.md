@@ -64,6 +64,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Tree
@@ -74,6 +75,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
@@ -83,6 +85,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Breadth-First Search
 |  |
