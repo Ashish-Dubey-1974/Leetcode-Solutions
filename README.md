@@ -7,6 +7,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
@@ -41,6 +42,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
@@ -132,6 +134,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
