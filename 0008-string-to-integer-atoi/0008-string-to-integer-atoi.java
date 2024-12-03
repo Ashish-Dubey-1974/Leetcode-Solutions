@@ -1,6 +1,5 @@
 class Solution {
     public int myAtoi(String s) {
-        //if(s.equals("-2147483649"))return -2147483648;
         int op=1;
         boolean flag=false;
         int sign=1;
