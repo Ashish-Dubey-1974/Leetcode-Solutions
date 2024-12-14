@@ -9,8 +9,7 @@ class Solution {
     public int ladderLength(String begin, String end, List<String> wordList) {
         HashSet<String> map = new HashSet<>();
         Queue<pair> q = new LinkedList<>();
-        int cnt=0;
-        q.add(new pair(begin,cnt));
+        q.add(new pair(begin,1));
         for(int i=0;i<wordList.size();i++)map.add(wordList.get(i));
         if(map.contains(begin))map.remove(begin);
         if(map.contains(end)){
@@ -19,7 +18,7 @@ class Solution {
                 for(int i=0;i<p.s.length();i++){
                     for(char c='a';c<='z';c++){
                         String m = p.s.substring(0,i)+c+p.s.substring(i+1);
-                        if(m.equals(end))return p.c+2;
+                        if(m.equals(end))return p.c+1;
                         else if(map.contains(m)){
                             // System.out.print(m+" "+p.c+"  ");
                             q.add(new pair(m,p.c+1));
@@ -27,9 +26,8 @@ class Solution {
                         }
                     }
                 }
-            }
-            return cnt;
+            }return 0;
         }
-        else return cnt;
+        else return 0;
     }
 }
