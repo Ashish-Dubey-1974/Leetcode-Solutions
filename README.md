@@ -34,6 +34,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
@@ -101,6 +102,7 @@
 | [0130-surrounded-regions](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0733-flood-fill) |
@@ -114,6 +116,7 @@
 | [0126-word-ladder-ii](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0733-flood-fill) |
@@ -203,6 +206,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [1073-number-of-enclaves](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1073-number-of-enclaves) |
 ## Matrix
@@ -212,6 +216,7 @@
 | [0054-spiral-matrix](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
