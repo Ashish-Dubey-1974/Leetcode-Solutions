@@ -1,39 +1,37 @@
 class Solution {
-    public int numIslands(char[][] grid) {
-        if (grid == null || grid.length == 0) {
-            return 0;
+    class pair{
+        int r;
+        int c;
+        pair(int r,int c){
+            this.r=r;this.c=c;
         }
-
-        int rows = grid.length;
-        int cols = grid[0].length;
-        int islands = 0;
-
-        for (int i = 0; i < rows; i++) {
-            for (int j = 0; j < cols; j++) {
-                if (grid[i][j] == '1') {
-                    islands++;
-                    dfs(grid, i, j);
+    }
+    public int numIslands(char[][] grid) {
+        int m=grid.length,n=grid[0].length;
+        int cnt=0;
+        int[] ra = {0,0,1,-1};
+        int[] ca = {1,-1,0,0};
+        boolean[][] vis = new boolean[m][n];
+        // dfs
+        Stack<pair> st = new Stack<>();
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                if(grid[i][j]=='1'&&!vis[i][j]){
+                    vis[i][j]=true;
+                    st.push(new pair(i,j));
+                    while(!st.isEmpty()){
+                        pair p = st.pop();
+                        for(int x=0;x<4;x++){
+                            int r = ra[x]+p.r;
+                            int c = ca[x]+p.c;
+                            if(r>=0&&r<m&&c>=0&&c<n&&grid[r][c]=='1'&&!vis[r][c]){
+                                vis[r][c]=true;
+                                st.push(new pair(r,c));
+                            }
+                        }
+                    }cnt++;
                 }
             }
-        }
-
-        return islands;
-    }
-
-    private void dfs(char[][] grid, int row, int col) {
-        int rows = grid.length;
-        int cols = grid[0].length;
-
-        if (row < 0 || col < 0 || row >= rows || col >= cols || grid[row][col] != '1') {
-            return;
-        }
-
-        grid[row][col] = '0'; 
-
-        dfs(grid, row + 1, col); 
-        dfs(grid, row - 1, col); 
-        dfs(grid, row, col + 1); 
-        dfs(grid, row, col - 1);
-      
+        }return cnt;
     }
 }
