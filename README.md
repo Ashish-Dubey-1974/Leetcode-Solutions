@@ -106,6 +106,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1073-number-of-enclaves) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Breadth-First Search
@@ -120,6 +121,7 @@
 | [0542-01-matrix](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1073-number-of-enclaves) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -208,6 +210,7 @@
 | [0130-surrounded-regions](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1073-number-of-enclaves) |
 ## Matrix
 |  |
@@ -263,6 +266,7 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0801-is-graph-bipartite) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
