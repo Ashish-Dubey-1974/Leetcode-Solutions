@@ -177,6 +177,7 @@
 | [0242-valid-anagram](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -232,6 +233,7 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Counting
 |  |
 | ------- |
