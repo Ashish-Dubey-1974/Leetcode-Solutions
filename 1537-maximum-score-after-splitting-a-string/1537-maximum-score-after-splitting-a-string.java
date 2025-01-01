@@ -1,14 +1,15 @@
 class Solution {
     public int maxScore(String s) {
-        int max=0;
-        for(int i=1;i<s.length();i++){
-            String s1 = s.substring(0,i);
-            String s2 = s.substring(i);
-            // System.out.print(s1+" "+s2);
-            int l=0,r=0;
-            for(int j : s1.toCharArray())if(j=='0')l++;
-            for(int j : s2.toCharArray())if(j=='1')r++;
-            max=max>l+r?max:l+r;
-        }return max;
+        int zero = 0, one = 0;
+        int res = -1;
+        for(int i = 0; i < s.length(); i++) if(s.charAt(i) == '1') one++;
+        if(s.charAt(0) == '0') zero++;
+        else one = one > 0 ? one - 1: 0;
+        for(int i = 1; i < s.length(); i++) {
+            res = Math.max(res, one + zero);
+            if(s.charAt(i) == '0') zero++;
+            else one = one > 0 ? one - 1: 0;
+        }
+        return res;
     }
 }
