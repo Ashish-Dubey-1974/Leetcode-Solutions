@@ -2,20 +2,25 @@ class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
         List<List<Integer>> result = new ArrayList<>();
         Set<List<Integer>> map=new HashSet<>(); 
-        int k=nums.length;
-        for(int i=0;i<k-2;i++){
-            Set<Integer> map2 = new HashSet<>();
-            for(int j=i+2;j<k;j++){
-                map2.add(nums[j-1]);
-                if(map2.contains(-(nums[i]+nums[j]))){
-                    List<Integer> list = new ArrayList<>();
-                    int m = -(nums[i]+nums[j]);
-                   if(nums[i]>=nums[j]&&nums[i]>=m){list.add(nums[i]);if(nums[j]>m){list.add(nums[j]);list.add(m);}else{list.add(m);list.add(nums[j]);}}
-                    else if(nums[j]>=nums[i]&&nums[j]>=m){list.add(nums[j]);if(nums[i]>m){list.add(nums[i]);list.add(m);}else{list.add(m);list.add(nums[i]);}}
-                    else if(m>=nums[i]&&m>=nums[j]){list.add(m);if(nums[i]>nums[j]){list.add(nums[i]);list.add(nums[j]);}else{list.add(nums[j]);list.add(nums[i]);}}
+        int n=nums.length;
+        Arrays.sort(nums);
+        for(int i=0;i<n;i++){
+            if(i>0&&nums[i]==nums[i-1])continue;
+            int j=i+1;
+            int k=n-1;
+            while(j<k){
+                int sum=nums[i]+nums[j]+nums[k];
+                if(sum>0)k--;
+                else if(sum<0)j++;
+                else{
+                    List<Integer> list = new ArrayList<>(Arrays.asList(nums[i],nums[j],nums[k]));
                     map.add(list);
+                    j++;
+                    k--;
+                    while(j<n&&nums[j]==nums[j-1])j++;
+                    while(k>=0&&nums[k]==nums[k+1])k--;
                 }
-            }          
+            }
         }
         for(List<Integer> ls : map)result.add(ls);
         return result;
