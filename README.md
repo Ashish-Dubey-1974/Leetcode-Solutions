@@ -186,6 +186,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0812-rotate-string](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -221,6 +222,7 @@
 | [0031-next-permutation](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 ## Union Find
 |  |
 | ------- |
