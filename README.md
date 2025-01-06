@@ -48,6 +48,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2358-number-of-ways-to-split-array](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
+| [2428-equal-row-and-column-pairs](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2465-shifting-letters-ii](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2465-shifting-letters-ii) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -66,6 +67,7 @@
 | [0242-valid-anagram](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2428-equal-row-and-column-pairs](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
 ## Linked List
 |  |
@@ -240,10 +242,12 @@
 | [0733-flood-fill](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1073-number-of-enclaves) |
+| [2428-equal-row-and-column-pairs](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
+| [2428-equal-row-and-column-pairs](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
