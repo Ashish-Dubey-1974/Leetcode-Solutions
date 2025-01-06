@@ -195,6 +195,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2465-shifting-letters-ii](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2465-shifting-letters-ii) |
+| [2470-removing-stars-from-a-string](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Sliding Window
@@ -250,6 +251,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [2428-equal-row-and-column-pairs](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
+| [2470-removing-stars-from-a-string](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -273,6 +275,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2470-removing-stars-from-a-string](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 ## Memoization
 |  |
 | ------- |
