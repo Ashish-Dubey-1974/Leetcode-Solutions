@@ -42,6 +42,7 @@
 | [0542-01-matrix](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0733-flood-fill) |
+| [0735-asteroid-collision](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [1036-rotting-oranges](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1073-number-of-enclaves) |
@@ -256,6 +257,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
+| [0735-asteroid-collision](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [2428-equal-row-and-column-pairs](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 ## Prefix Sum
@@ -279,6 +281,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0735-asteroid-collision](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [1078-remove-outermost-parentheses](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2470-removing-stars-from-a-string](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
