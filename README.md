@@ -213,6 +213,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2465-shifting-letters-ii](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2465-shifting-letters-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -235,6 +236,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [2032-largest-odd-number-in-string](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Two Pointers
 |  |
 | ------- |
@@ -355,4 +357,8 @@
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Enumeration
+|  |
+| ------- |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 <!---LeetCode Topics End-->
