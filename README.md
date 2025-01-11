@@ -12,6 +12,7 @@
 | [0050-powx-n](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 ## Array
@@ -39,6 +40,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0169-majority-element](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
@@ -246,6 +248,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 ## Union Find
 |  |
