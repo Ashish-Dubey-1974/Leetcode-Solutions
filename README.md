@@ -80,6 +80,7 @@
 | [0242-valid-anagram](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0952-word-subsets](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0952-word-subsets) |
+| [1502-construct-k-palindrome-strings](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2428-equal-row-and-column-pairs](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
@@ -206,6 +207,7 @@
 | [0812-rotate-string](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0952-word-subsets) |
 | [1078-remove-outermost-parentheses](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
+| [1502-construct-k-palindrome-strings](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -235,6 +237,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0055-jump-game) |
+| [1502-construct-k-palindrome-strings](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Two Pointers
@@ -296,6 +299,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
+| [1502-construct-k-palindrome-strings](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 ## Stack
 |  |
 | ------- |
