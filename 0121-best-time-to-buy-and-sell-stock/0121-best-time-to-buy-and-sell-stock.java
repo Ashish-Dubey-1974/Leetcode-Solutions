@@ -1,8 +1,11 @@
 class Solution {
     public int maxProfit(int[] p) {
-        int sum=0,minp = p[0];
-        for(int j=1;j<p.length;j++){if(minp>p[j])minp=p[j];else{int com = p[j]-minp;sum = com>sum?com:sum;}}
-        if(sum>0)return sum;
-        return 0;
+        int profit=0,minp=p[0];
+        for(int i=1;i<p.length;i++){
+            if(minp>p[i])minp = p[i];
+            else{
+                profit = Math.max(profit,p[i]-minp);
+            }
+        }return profit;
     }
 }
