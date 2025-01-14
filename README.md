@@ -48,6 +48,7 @@
 | [0229-majority-element-ii](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0542-01-matrix](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0733-flood-fill](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0792-binary-search) |
@@ -80,6 +81,7 @@
 | [0229-majority-element-ii](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0952-word-subsets](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -207,6 +209,7 @@
 | [0205-isomorphic-strings](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0812-rotate-string](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0952-word-subsets) |
 | [1078-remove-outermost-parentheses](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
