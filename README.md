@@ -63,6 +63,7 @@
 | [2358-number-of-ways-to-split-array](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2465-shifting-letters-ii](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2465-shifting-letters-ii) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -369,6 +370,7 @@
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2509-minimize-xor) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Rolling Hash
 |  |
@@ -382,4 +384,8 @@
 |  |
 | ------- |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
