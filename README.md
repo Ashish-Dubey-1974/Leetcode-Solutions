@@ -95,6 +95,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
@@ -241,6 +242,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -356,6 +358,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
@@ -388,4 +391,8 @@
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
