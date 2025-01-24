@@ -1,6 +1,6 @@
 
 class Solution {
-    int d=0;
+    int d;
     public int diameterOfBinaryTree(TreeNode root) {
         diameter(root);
         return d;
