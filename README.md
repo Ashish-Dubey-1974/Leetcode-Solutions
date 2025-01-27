@@ -28,6 +28,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0055-jump-game) |
@@ -373,6 +374,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0126-word-ladder-ii](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0126-word-ladder-ii) |
 ## Bit Manipulation
 |  |
