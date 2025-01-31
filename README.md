@@ -54,6 +54,7 @@
 | [0733-flood-fill](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0792-binary-search) |
+| [0951-partition-array-into-disjoint-intervals](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0951-partition-array-into-disjoint-intervals) |
 | [0952-word-subsets](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0952-word-subsets) |
 | [1036-rotting-oranges](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1073-number-of-enclaves) |
