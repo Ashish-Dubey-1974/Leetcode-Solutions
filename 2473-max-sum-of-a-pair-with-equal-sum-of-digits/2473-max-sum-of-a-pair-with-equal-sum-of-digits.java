@@ -1,17 +1,17 @@
 class Solution {
     public int maximumSum(int[] nums) {
-        HashMap<Integer,List<Integer>> map=new HashMap<>();
+        HashMap<Integer,PriorityQueue<Integer>> map=new HashMap<>();
         for(int i :nums){
             int sum = sum(i);
-            map.putIfAbsent(sum,new ArrayList<>());
+            map.putIfAbsent(sum,new PriorityQueue<>(Collections.reverseOrder()));
             map.get(sum).add(i);
         }
         int max=-1;
-        for(Map.Entry<Integer,List<Integer>> entry : map.entrySet()){
-            List<Integer> group = entry.getValue();
+        for(Map.Entry<Integer,PriorityQueue<Integer>> entry : map.entrySet()){
+            PriorityQueue<Integer> group = entry.getValue();
             if(group.size()>1){
-                Collections.sort(group,Collections.reverseOrder());
-                int currSum = group.get(0)+group.get(1);
+                int currSum = group.remove();
+                currSum+=group.remove();
                 max=max>currSum?max:currSum;
             }
         }return max;
