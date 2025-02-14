@@ -234,6 +234,7 @@
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -313,6 +314,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2428-equal-row-and-column-pairs](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -344,6 +346,7 @@
 | [0735-asteroid-collision](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [1078-remove-outermost-parentheses](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2470-removing-stars-from-a-string](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 ## Memoization
