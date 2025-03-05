@@ -15,6 +15,7 @@
 | [0189-rotate-array](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
+| [2649-count-total-number-of-colored-cells](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2649-count-total-number-of-colored-cells) |
 ## Array
 |  |
 | ------- |
