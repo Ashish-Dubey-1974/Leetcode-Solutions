@@ -223,6 +223,7 @@
 | [0014-longest-common-prefix](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0038-count-and-say) |
+| [0058-length-of-last-word](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0126-word-ladder-ii](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
