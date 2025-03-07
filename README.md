@@ -15,6 +15,7 @@
 | [0189-rotate-array](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
+| [2610-closest-prime-numbers-in-range](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Array
@@ -433,4 +434,8 @@
 |  |
 | ------- |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
+## Number Theory
+|  |
+| ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2610-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
