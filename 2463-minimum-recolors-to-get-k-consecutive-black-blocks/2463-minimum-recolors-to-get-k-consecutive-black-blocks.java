@@ -6,7 +6,6 @@ class Solution {
             if(i+k>n)return min;
             int dummyMin=0;
             for(int j=i;j<k+i;j++){
-                //if(j>=n)return min;
                 if(blocks.charAt(j)=='W')dummyMin++;
             }min=min>dummyMin?dummyMin:min;
         }return min;
