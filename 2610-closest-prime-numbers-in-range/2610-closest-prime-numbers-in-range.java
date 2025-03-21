@@ -1,24 +1,28 @@
 class Solution {
+    class pair{
+        int prev;
+        int curr;
+        pair(){}
+    }
     public int[] closestPrimes(int left, int right) {
-        int pprev=0;
-        int pcurr=0;
+        pair p = new pair();
         int prev=0;
         int curr=0;
         for(int i=left;i<=right;i++){
             if(isprime(i)){
-                if(prev==0){prev=i;pprev=i;}
-                else if(curr==0){curr=i;pcurr=i;}
+                if(prev==0){prev=i;p.prev=i;}
+                else if(curr==0){curr=i;p.curr=i;}
                 else{
                     prev = curr;
                     curr = i;
-                    if(curr-prev<pcurr-pprev){
-                        pprev=prev;
-                        pcurr=curr;
+                    if(curr-prev<p.curr-p.prev){
+                        p.prev=prev;
+                        p.curr=curr;
                     }
                 }
             }
-        }if(pprev==0||pcurr==0)return new int[]{-1,-1};
-        return new int[]{pprev,pcurr};
+        }if(p.prev==0||p.curr==0)return new int[]{-1,-1};
+        return new int[]{p.prev,p.curr};
     }
 
     boolean isprime(int n){ 
