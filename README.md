@@ -98,6 +98,7 @@
 | [0229-majority-element-ii](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0952-word-subsets](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0952-word-subsets) |
@@ -220,6 +221,7 @@
 | [0229-majority-element-ii](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
 ## String
@@ -242,6 +244,7 @@
 | [0205-isomorphic-strings](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0812-rotate-string](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0952-word-subsets) |
@@ -427,6 +430,7 @@
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0371-sum-of-two-integers](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0397-integer-replacement) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
