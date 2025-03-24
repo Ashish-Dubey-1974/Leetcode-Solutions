@@ -279,6 +279,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Greedy
@@ -424,6 +425,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0371-sum-of-two-integers](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0397-integer-replacement](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0397-integer-replacement) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
