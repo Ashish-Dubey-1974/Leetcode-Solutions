@@ -77,6 +77,7 @@
 | [2478-longest-nice-subarray](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2478-longest-nice-subarray) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
@@ -181,6 +182,7 @@
 | [1073-number-of-enclaves](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Binary Search
 |  |
 | ------- |
@@ -224,6 +226,7 @@
 | [0389-find-the-difference](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## String
 |  |
 | ------- |
@@ -311,6 +314,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Union Find
 |  |
 | ------- |
@@ -321,6 +325,7 @@
 | [0801-is-graph-bipartite](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Matrix
 |  |
 | ------- |
@@ -335,6 +340,7 @@
 | [1073-number-of-enclaves](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [2428-equal-row-and-column-pairs](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3227-find-missing-and-repeated-values](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
 |  |
@@ -414,6 +420,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Quickselect
 |  |
