@@ -477,4 +477,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
