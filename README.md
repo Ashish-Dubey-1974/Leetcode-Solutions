@@ -18,6 +18,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2649-count-total-number-of-colored-cells) |
+| [3055-maximum-odd-binary-number](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/3055-maximum-odd-binary-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Array
 |  |
@@ -267,6 +268,7 @@
 | [2465-shifting-letters-ii](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2465-shifting-letters-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3055-maximum-odd-binary-number](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/3055-maximum-odd-binary-number) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/3447-clear-digits) |
@@ -299,6 +301,7 @@
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2509-minimize-xor](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2509-minimize-xor) |
+| [3055-maximum-odd-binary-number](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/3055-maximum-odd-binary-number) |
 ## Two Pointers
 |  |
 | ------- |
