@@ -12,6 +12,7 @@
 | [0050-powx-n](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [1013-fibonacci-number](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
@@ -47,6 +48,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0198-house-robber) |
@@ -382,6 +384,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0735-asteroid-collision](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [1078-remove-outermost-parentheses](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
