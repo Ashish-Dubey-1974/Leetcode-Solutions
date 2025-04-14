@@ -25,7 +25,6 @@ class Solution {
                 if(inDegree[i]==0)q.add(i);
             }
         }
-        System.out.print(topoOrder);
         return topoOrder.size()==nC;
     }
 }
