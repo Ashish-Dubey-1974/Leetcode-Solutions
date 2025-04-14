@@ -63,6 +63,7 @@
 | [0733-flood-fill](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0792-binary-search) |
+| [0876-hand-of-straights](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0876-hand-of-straights) |
 | [0951-partition-array-into-disjoint-intervals](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0951-partition-array-into-disjoint-intervals) |
 | [0952-word-subsets](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0952-word-subsets) |
 | [1036-rotting-oranges](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
@@ -105,6 +106,7 @@
 | [0389-find-the-difference](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0876-hand-of-straights](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0876-hand-of-straights) |
 | [0952-word-subsets](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -229,6 +231,7 @@
 | [0242-valid-anagram](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0389-find-the-difference) |
+| [0876-hand-of-straights](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0876-hand-of-straights) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -300,6 +303,7 @@
 | [0055-jump-game](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0397-integer-replacement](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0397-integer-replacement) |
+| [0876-hand-of-straights](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0876-hand-of-straights) |
 | [1502-construct-k-palindrome-strings](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
