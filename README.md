@@ -72,6 +72,7 @@
 | [1524-string-matching-in-an-array](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2047-find-a-peak-element-ii](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2358-number-of-ways-to-split-array](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
@@ -203,6 +204,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0792-binary-search) |
+| [2047-find-a-peak-element-ii](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
 ## Dynamic Programming
 |  |
@@ -358,6 +360,7 @@
 | [1036-rotting-oranges](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
+| [2047-find-a-peak-element-ii](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2428-equal-row-and-column-pairs](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3227-find-missing-and-repeated-values](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
