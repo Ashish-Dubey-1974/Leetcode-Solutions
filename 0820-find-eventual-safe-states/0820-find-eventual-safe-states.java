@@ -1,35 +1,27 @@
 class Solution {
+    boolean[] path;
     boolean[] vis;
-    boolean[] pvis;
     boolean[] safe;
-
     public List<Integer> eventualSafeNodes(int[][] graph) {
-        List<Integer> ans = new ArrayList<>();
-        int n=graph.length;
+        List<Integer> ls = new ArrayList<>();
+        int n = graph.length;
+        path = new boolean[n];
         vis = new boolean[n];
-        pvis = new boolean[n];
         safe = new boolean[n];
-
-        for(int i=0;i<n;i++){
-            dfs(i,graph);
-        }
-
-        for(int i=0;i<n;i++){
-            if(safe[i])ans.add(i);
-        }
-        return ans;
+        for(int i=0;i<n;i++)dfs(i,graph);
+        for(int i=0;i<n;i++)if(safe[i])ls.add(i);
+        return ls;
     }
-
-    boolean dfs(int node,int[][] g){
+    boolean dfs(int node,int[][]g){
         if(vis[node])return safe[node];
-        vis[node]=true;
-        pvis[node]=true;
-        for(int i=0;i<g[node].length;i++){
-            if(pvis[g[node][i]])return safe[g[node][i]];
-            if(!dfs(g[node][i],g))return false;
+        vis[node] = true;
+        path[node] = true;
+        for(int neigh : g[node]){
+            if(path[neigh])return safe[neigh];
+            if(!dfs(neigh,g))return false;
         }
-        pvis[node]=false;
+        path[node]=false;
         safe[node]=true;
         return true;
     }
-}                                                 
+}
