@@ -15,7 +15,6 @@ class Solution {
         int[][] M = new int[n][m];
         boolean[][] vis = new boolean[n][m];
         Queue<pair> q = new LinkedList<>();
-        // Copy data into new Matrix
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
                 if(mat[i][j]==0){
