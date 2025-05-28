@@ -1,17 +1,16 @@
 class Solution {
     public double myPow(double x, int n) {
-        double ans=1;
-        long nn = n;
-        if(n<0)nn*=-1;
-        while(nn>0){
-            if(nn%2==1){
-                ans*=x;nn--;
-            }
-            else{
-                x*=x;
-                nn/=2;
-            }
-        }if(n<0) return (double)(1/ans);
-        return ans; 
+        int nn = 1;
+        if(n<0)nn=-1;
+        n=Math.abs(n);
+        double ans=helper(x,n);
+        if(nn==-1)return 1/ans;  
+        return ans;      
+    }
+    double helper(double x,int n){
+        if(n==0)return 1;
+        if(n%2==0)return helper(x*x,n/2);
+        else return x*helper(x*x,n/2);
+        
     }
 }
