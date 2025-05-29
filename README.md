@@ -17,6 +17,7 @@
 | [0371-sum-of-two-integers](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [1013-fibonacci-number](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2050-count-good-numbers) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2649-count-total-number-of-colored-cells) |
 | [3055-maximum-odd-binary-number](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/3055-maximum-odd-binary-number) |
@@ -132,6 +133,7 @@
 | [0010-regular-expression-matching](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0050-powx-n](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2050-count-good-numbers) |
 ## Tree
 |  |
 | ------- |
