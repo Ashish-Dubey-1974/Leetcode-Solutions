@@ -42,6 +42,7 @@
 | [0055-jump-game](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
@@ -466,10 +467,12 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0126-word-ladder-ii](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0126-word-ladder-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0371-sum-of-two-integers](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0389-find-the-difference) |
