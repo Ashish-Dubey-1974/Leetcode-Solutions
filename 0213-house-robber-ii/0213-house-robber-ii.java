@@ -1,23 +1,21 @@
 class Solution {
-    public int rob(int[] num) {
-        int n=num.length;
-        if(n==0)return 0;
-        if(n==1)return num[0];
-        if(n==2)return num[0]>num[1]?num[0]:num[1];
-        int[] dp1 = new int[num.length-1];
-        int[] dp2 = new int[num.length];
-        Arrays.fill(dp1,-1);
-        Arrays.fill(dp2,-1);
-        int d1 = find(0,num,dp1);
-        int d2 = find(1,num,dp2);
-        return d1>d2?d1:d2;
+    public int rob(int[] nums) {
+        if(nums.length==1)return nums[0];
+        int[] dp = new int[nums.length];
+        Arrays.fill(dp,-1);
+        int a = ruby(nums,0,false,dp);
+        Arrays.fill(dp,-1);
+        int b = ruby(nums,1,true,dp);
+        return Math.max(a,b);
     }
-    static int find(int i,int[] nums,int[] dp){
-        if(i>=dp.length)return 0;
-        if(dp[i]!=-1)return dp[i];
-        int rob  = nums[i]+find(i+2,nums,dp);
-        int drob = find(i+1,nums,dp)        ;
-        dp[i]=Integer.max(rob,drob);
-        return dp[i];
+    int ruby(int[] nums,int idx,boolean flag,int[] dp){
+        if(flag&&idx>=nums.length)return 0;
+        if(!flag&&idx>=nums.length-1)return 0;
+        if(dp[idx]!=-1)return dp[idx];
+        int rob = nums[idx]+ruby(nums,idx+2,flag,dp);
+        int skip = ruby(nums,idx+1,flag,dp);
+        dp[idx] = Math.max(rob,skip);
+        return dp[idx];
     }
+
 }
