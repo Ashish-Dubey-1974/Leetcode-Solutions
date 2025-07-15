@@ -1,9 +1,6 @@
 class Solution {
-    static int ans;
-    static int cnt;
+    int ans,cnt;
     public int getDecimalValue(ListNode head) {
-        ans=0;
-        cnt=0;
         helper(head);
         return ans;
     }
