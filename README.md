@@ -561,6 +561,7 @@
 | [0584-find-customer-referee](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0595-big-countries) |
+| [0596-classes-with-at-least-5-students](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0596-classes-with-at-least-5-students) |
 | [1179-game-play-analysis-i](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1179-game-play-analysis-i) |
 ## Topological Sort
 |  |
