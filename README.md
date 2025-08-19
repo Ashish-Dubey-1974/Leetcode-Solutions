@@ -19,6 +19,7 @@
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2050-count-good-numbers) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2649-count-total-number-of-colored-cells) |
 | [3055-maximum-odd-binary-number](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/3055-maximum-odd-binary-number) |
@@ -88,6 +89,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2358-number-of-ways-to-split-array](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2465-shifting-letters-ii](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2478-longest-nice-subarray) |
