@@ -84,6 +84,7 @@
 | [1396-count-servers-that-communicate](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1524-string-matching-in-an-array](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1603-running-sum-of-1d-array](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2047-find-a-peak-element-ii](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -422,6 +423,7 @@
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1603-running-sum-of-1d-array](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
