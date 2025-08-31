@@ -15,6 +15,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
+| [0910-nth-magical-number](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0910-nth-magical-number) |
 | [1013-fibonacci-number](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
@@ -223,6 +224,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0792-binary-search) |
+| [0910-nth-magical-number](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0910-nth-magical-number) |
 | [2047-find-a-peak-element-ii](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2586-longest-square-streak-in-an-array) |
 ## Dynamic Programming
