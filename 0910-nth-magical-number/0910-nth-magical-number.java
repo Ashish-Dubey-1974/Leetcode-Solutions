@@ -1,6 +1,7 @@
 class Solution {
+    int Mod = 1000000007;
     public int nthMagicalNumber(int n, int a, int b) {
-        if(a==b)return (int)((long)a*n%1000000007);
+        if(a==b)return (int)((long)a*n%Mod);
         long lcm = lcm(a,b);
         long low = a<b?a:b;
         long high= (long)(a<b?a:b)*n;
@@ -10,7 +11,7 @@ class Solution {
             if(count<n)low=mid+1;
             else high = mid;
         }
-        return (int)(low%1000000007L);
+        return (int)(low%Mod);
     }
     long lcm(long a,long b){
         return (a*b)/gcd(a,b);
