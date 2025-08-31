@@ -85,6 +85,7 @@
 | [1524-string-matching-in-an-array](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1603-running-sum-of-1d-array) |
+| [1848-sum-of-unique-elements](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1848-sum-of-unique-elements) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2047-find-a-peak-element-ii](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -126,6 +127,7 @@
 | [0876-hand-of-straights](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0876-hand-of-straights) |
 | [0952-word-subsets](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
+| [1848-sum-of-unique-elements](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1848-sum-of-unique-elements) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
@@ -437,6 +439,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1396-count-servers-that-communicate](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
+| [1848-sum-of-unique-elements](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1848-sum-of-unique-elements) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Stack
