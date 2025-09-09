@@ -88,6 +88,7 @@
 | [1848-sum-of-unique-elements](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1848-sum-of-unique-elements) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2047-find-a-peak-element-ii](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2047-find-a-peak-element-ii) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2358-number-of-ways-to-split-array](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
@@ -312,6 +313,7 @@
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/2337-remove-digit-from-number-to-maximize-result) |
