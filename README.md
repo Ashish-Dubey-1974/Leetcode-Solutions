@@ -66,6 +66,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0485-max-consecutive-ones](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Ashish-Dubey-1974/Leetcode-Solutions/tree/master/0561-array-partition) |
