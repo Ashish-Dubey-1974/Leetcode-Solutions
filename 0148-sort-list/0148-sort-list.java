@@ -24,8 +24,8 @@ class Solution {
         return dummy.next;
 
     }
-    ListNode getMid(ListNode head){
-        ListNode slow=head,fast=head.next;
+    ListNode getMid(ListNode h){
+        ListNode slow=h,fast=h.next;
         while(fast!=null && fast.next!=null){
             slow=slow.next;
             fast=fast.next.next;
